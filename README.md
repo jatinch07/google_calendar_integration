@@ -1,3 +1,5 @@
+# For code - rest -> views.py
+
 Assignments for Python
 Problem: In this assignment you have to implement google calendar integration using
 django rest api.
